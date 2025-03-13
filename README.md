@@ -1,4 +1,5 @@
-# Documents git
+# Git documents
+This is all you need to know about git and related tools.
 
 ## Config
 1. [Setup posh-git](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-PowerShell#:~:text=To%20include%20Git%20information%20in,open%20a%20new%20PowerShell%20console.)
